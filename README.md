@@ -1,7 +1,12 @@
-### Hi there 👋
+### Welcome!👋
+
+I'm Nick. I'm a developer currently studying in the DigitalCrafts Full-Stack Developer Bootcamp. I'm originally from Houston, TX. However, I'm a nomad so you may see out in the wild anywhere. My personal interests range from woodworking/carpentry to Star Wars to baseball (playing or watching) and so much more in-between. I welcome any opportunities for collaboration or notes on the projects in my repositories.
+
+Experience:
+
 
 <!--
-**naldridge/naldridge** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
