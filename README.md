@@ -1,6 +1,6 @@
 ### Welcome!👋
 
-I'm Nick. I'm a developer currently studying in the DigitalCrafts Full-Stack Developer Bootcamp. I'm originally from Houston, TX. However, I'm a nomad so you may see me out in the wild anywhere. My personal interests range from woodworking/carpentry to Star Wars to baseball (playing or watching) and so much more in-between. I welcome any opportunities for collaboration or notes on the projects in my repositories.
+I'm Nick. I'm a Software Developer at Kerr Pumps/Flowvalve in Sulphur, OK. I'm originally from Houston, TX. However, I'm a nomad so you may see me out in the wild anywhere. My personal interests range from woodworking/carpentry to Star Wars to baseball (playing or watching) and so much more in-between. I welcome any opportunities for collaboration or notes on the projects in my repositories.
 
 Experience: </br>
 <img alt="JavaScript" title="JavaScript" src="./public/images/JavaScript_logo.svg" height="50">
